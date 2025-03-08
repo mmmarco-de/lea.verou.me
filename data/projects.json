@@ -144,7 +144,7 @@
 			"url": "https://mavo.io",
 			"image": "https://mavo.io/logo.svg",
 			"name": "Mavo",
-			"description": "Mavo is a programming language for non-programmers, empowering them to create full stack data-driven web applications by simply writing HTML.\n\nJust testing things.\n\nThis was the flagship project of my PhD, in the [Haystack Group at MIT CSAIL](https://haystack.csail.mit.edu/). I also supervised 3 Master’s students and 10 undergraduates and led them to meaningful contributions.",
+			"description": "Mavo is a programming language for non-programmers, empowering them to create full stack data-driven web applications by simply writing HTML.\n\nThis was the flagship project of my PhD, in the [Haystack Group at MIT CSAIL](https://haystack.csail.mit.edu/). I also supervised 3 Master’s students and 10 undergraduates and led them to meaningful contributions.",
 			"launch": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
 			"repo": "mavoweb/mavo",
 			"date": "2017-05",
