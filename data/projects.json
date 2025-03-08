@@ -12,7 +12,8 @@
 			"url": "https://rety.verou.me",
 			"launch": "https://lea.verou.me/blog/2022/07/rety/",
 			"repo": "leaverou/rety",
-			"npm": "rety"
+			"npm": "rety",
+			"@context": "https://schema.org/"
 		},
 		{
 			"featured": "0",
