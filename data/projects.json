@@ -112,23 +112,6 @@
 			"impact_rating": 0
 		},
 		{
-			"url": "https://mavo.io",
-			"image": "https://mavo.io/logo.svg",
-			"name": "Mavo",
-			"description": "Mavo is a programming language for non-programmers, empowering them to create full stack data-driven web applications by simply writing HTML.\n\nThis was the flagship project of my PhD, in the [Haystack Group at MIT CSAIL](https://haystack.csail.mit.edu/). I also supervised 3 Master’s students and 10 undergraduates and led them to meaningful contributions.",
-			"launch": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
-			"repo": "mavoweb/mavo",
-			"date": "2017-05",
-			"type": "lib",
-			"featured": 1,
-			"impact": "Mavo’s innovations led to the publication of [several peer-reviewed research papers](https://lea.verou.me/publications/#research) and 3 Masters theses.",
-			"repo_stars": 2818,
-			"repo_stars_formatted": "2.8 K",
-			"innovation": "* Hassle-free remote storage, simply by providing a URL, the rest is taken care for you.\n* A formula language with several features that make it easier for novices.\n* Removes the need to think about data modeling: novices generate their data schemas by simply designing their UI and annotating it\n* Editing interface that is largely automatically generated to follow the UI",
-			"size": "major",
-			"impact_rating": 0
-		},
-		{
 			"url": "http://blissfuljs.com/",
 			"image": "https://lea.verou.me/wp-content/uploads/2015/12/Screen-Shot-2015-12-04-at-16.59.39-300x127.png",
 			"name": "Bliss",
@@ -155,6 +138,23 @@
 			"repo_stars": 1272,
 			"repo_stars_formatted": 1272,
 			"size": "minor",
+			"impact_rating": 0
+		},
+		{
+			"url": "https://mavo.io",
+			"image": "https://mavo.io/logo.svg",
+			"name": "Mavo",
+			"description": "Mavo is a programming language for non-programmers, empowering them to create full stack data-driven web applications by simply writing HTML.\n\nJust testing things.\n\nThis was the flagship project of my PhD, in the [Haystack Group at MIT CSAIL](https://haystack.csail.mit.edu/). I also supervised 3 Master’s students and 10 undergraduates and led them to meaningful contributions.",
+			"launch": "https://lea.verou.me/2017/05/introducing-mavo-create-web-apps-entirely-by-writing-html/",
+			"repo": "mavoweb/mavo",
+			"date": "2017-05",
+			"type": "lib",
+			"featured": 1,
+			"impact": "Mavo’s innovations led to the publication of [several peer-reviewed research papers](https://lea.verou.me/publications/#research) and 3 Masters theses.",
+			"repo_stars": 2818,
+			"repo_stars_formatted": "2.8 K",
+			"innovation": "* Hassle-free remote storage, simply by providing a URL, the rest is taken care for you.\n* A formula language with several features that make it easier for novices.\n* Removes the need to think about data modeling: novices generate their data schemas by simply designing their UI and annotating it\n* Editing interface that is largely automatically generated to follow the UI",
+			"size": "major",
 			"impact_rating": 0
 		},
 		{
